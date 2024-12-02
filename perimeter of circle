@@ -1,0 +1,10 @@
+# perimeter-of-circle
+#include <stdio.h>
+int main()
+{ 
+   float pi=3.14,radius,perimeter;
+   printf("enter the radius:");
+   scanf("%f",&radius);
+   printf("perimeter is %f", perimeter =2*pi*radius);
+   return 0;
+}
